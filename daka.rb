@@ -1,3 +1,4 @@
+# encoding: utf-8
 require 'watir-webdriver'
 daka = Watir::Browser.new
 
